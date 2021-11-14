@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color:white;
+    background-color: rgb(148, 11, 11);
+    text-align: center;
+    margin: 20px;
+}
+
+span{
+    color:blue;
+    font-family: cursive;
+}
+
+.sunset{
+    display: block;
+    margin: auto;
+}
+
+p{
+    margin: 20px;
+    font-size: 18px;
+}
+
+
+.pictures_cars{
+    text-align: center;
+}
+
+.pictures_cars img {
+    margin: 5px;
+    border: 5px black dashed;
+}
+
+footer{
+    background-color:black;
+    color:white;
+    text-align: center;
+    margin: 40px;
+    font-size: 20px;
+}

@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* --------------------header-------------------- */
+body{
+    background-color: rgb(155, 33, 30);
+    font-size:18px;
+}
+
+.title{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.menu{
+    background-color:black;
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+
+.menu div{
+    color: blanchedalmond;
+    display: inline-block;
+    text-align: center;
+    width: 24.5%;
+}
+
+/* --------------------main-------------------- */
+
+
+.hrefContent{
+    background-color: rgb(125, 25, 22);
+    display: inline-block;
+    width: 24.5%;
+    vertical-align: top;
+    height: 400px;
+}
+
+.hrefContent a{
+    color: rgb(255, 94, 0);
+}
+.hrefText{
+    padding: 10px 0 20px 3px;
+    
+}
+
+.mainContant{
+    display: inline-block;
+    width: 59.4%;
+    padding-top:15px;
+    vertical-align: top;
+    height: 400px;
+}
+
+.mainContant p{
+    padding-bottom: 10px;
+    color: blanchedalmond;
+}
+
+.titleBox{
+    background-color: rgb(227, 221, 221);
+    display: inline-block;
+    width: 15%;
+    height: 400px;
+}
+
+.titleContant{
+    padding-top: 15px;
+}
+
+.titleContant p{
+    padding: 15px 1px 15px 5px;
+}
+
+h2{
+    background-color: rgb(189, 189, 189);
+    text-align: center;
+}
+
+hr{
+    max-width: 100px;
+    display: block;
+    margin: auto;
+}
+footer{
+    color: white;
+    background-color: rgb(255, 94, 0);
+    text-align: center;
+    margin: 30px 0;
+    font-size: 20px
+}
